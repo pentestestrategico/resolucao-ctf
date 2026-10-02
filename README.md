@@ -20,14 +20,14 @@ seus write-ups (PoC passo a passo), scripts de exploração e o índice de flags
 | CTF | Evento | Categorias | Resultado | Pasta |
 |-----|--------|:---:|:---:|-------|
 | 🛰️ **CSS CTF 2026** — *Return of Nexus* | Cybersecurity Society, Univ. Sydney | 12 | **30 / 31 flags** | [`css/`](css/) |
-| 🌲 **Curupira 3.0** — *Operação Relé* | GoHacking Academy | 30 | **~117 flags** | [`curupira/`](curupira/) |
+| 🌲 **Curupira 3.0** — *Guardião Cibernético* | GoHacking Academy | 30 | **117 flags** | [`curupira/`](curupira/) |
 
 ### 🛰️ [CSS CTF 2026 — Return of Nexus](css/)
 CTF da Cybersecurity Society da Universidade de Sydney. Categorias de PWN, Crypto, Web,
 Blockchain, Forensics, RE, Stego, OSINT, Misc e AI/ML. Veja o [placar completo](css/FLAGS.txt)
 e os [write-ups](css/writeups/).
 
-### 🌲 [Curupira 3.0 — Operação Relé](curupira/)
+### 🌲 [Curupira 3.0 — Guardião Cibernético](curupira/)
 CTF da plataforma [GoHacking](https://academy.gohacking.com.br/). Cenário de comprometimento
 em cadeia (Transnorte / Litoral Telecom / Câmara de Liquidação) pelo grupo *Obsidian*, com
 forte ênfase em **forense, DFIR, OT/SCADA e crypto**. Índice das 30 categorias no
