@@ -1,0 +1,10 @@
+# Hack The Box — fora do escopo deste repositório
+htb/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# SO
+.DS_Store

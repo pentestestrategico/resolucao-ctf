@@ -1,0 +1,70 @@
+================================================================
+ CSS CTF — Semester 2 2026  ("Return of Nexus")
+ Cybersecurity Society, University of Sydney
+ Plataforma : https://ctf.cybersecurity.sydney/
+ Ticket/Time: COPCIBER-DSI
+ Resolvidos : 30 / 31   |   Em aberto: 1  (Orthogonal Singularity)
+================================================================
+ Categorias e desafios na ordem oficial da plataforma.
+ pts = pontuacao | #NN = id interno do write-up (writeups/poc_NN_*.md)
+----------------------------------------------------------------
+
+[ WELCOME ]
+  Welcome to Nexus                      10    CSSCTF{noodle_is_the_best}                         (#34)
+
+[ OSINT ]
+  Dead Faction Servers                  10    CSSCTF{u_g0t_130d_508}                             (#5)
+  Server Juice                          15    CSSCTF{premiumreserve}                             (#37)
+  2(-1) Senses                          30    CSSCTF{WHOS_THIS_FLUFFMASTER_MR_Chinaski}          (#48)
+
+[ PWN ]
+  Kuiper Belt Relay Core                15    CSSCTF{s1gn4l_r3c0v3r3d_fr0m_th3_v01d}             (#50)
+  Dockside Ticket Office                25    CSSCTF{us3_4ft3r_fr33_d0cks1d3}                    (#3)
+  Maintenance Log                       50    CSSCTF{Duh_m4t3_1_4m_sl33py}                       (#49)
+
+[ HARDWARE: REVERSE ENGINEERING ]
+  Lamp Drill                            15    CSSCTF{css}                                        (#35)
+  Silicon Snare                        250    CSSCTF{01010000010000010101001101010011}           (#31)
+
+[ WEB ]
+  Welcome to Star City                  15    CSSCTF{we_BU1LT_this_city_from_r0ck_and_R011}      (#38)
+  Secret Supernovas                     50    CSSCTF{we_l000ve_grafs}                            (#40)
+  Cloudy with a Chance of Spaceships    67    CSSCTF{your_forecast_says_love_is_on_its_way}      (#55)
+
+[ MISC ]
+  A Star Trail 1                        20    CSSCTF{P1JT-21.0}                                  (#22)
+  A Star Trail 2                        75    CSSCTF{STARmaPdElAUNaYTriaNGulATioNDIjKStrAVoRonoiGrAPHSdetERmiNaNTcolineaRALGOrITHmSLeEandsCHAcHTERTANgEnTSmErGECirCuMcIrcLEcOnVEXhuLLgeOMeTRy}  (#24)
+  A Star Trail 3                       120    CSSCTF{itr6G8jMTXbOjCmClmMElZxQLqSXqnf53z1Z73liVas3ypn5CJZ4ZGlqZo6Fkc2onoJ6vx5SLfqqEyBotfjpxskQknpUgK9VMfBsFqzc0iEHDbMvv1hwXAo4U1NaimtTt9esb6mskMdUkbgBAjg3TTS1UeTSvf7LFZR0Vxf8KOgkzxHmvO0ifOFaVnwNgwUqpeo9}  (#56)
+  The Astrolabe Overwrite              250    CSSCTF{0ur0b0r0s_g00d_j0b_b01s_heh3_67}            (#57)
+  Orthogonal Singularity               750    >>> EM ABERTO (estagio 1 OK; 2 em analise; 3 nao alcancado)  (#51)
+
+[ AI/ML SECURITY ]
+  After hours...                        20    CSSCTF{n0_b4dg3_just_4_g00d_st0ry}                 (#47)
+
+[ CRYPTOGRAPHY ]
+  Chrono I                              25    CSSCTF{every_second_hides_a_secret}                (#20)
+  Chimera Vault                         65    CSSCTF{tr4c3_1nv4r14nc3_4nd_4c0ust1c_sp3ctr4_7f9b8c}  (#54)
+  Chrono II                            100    CSSCTF{th3_cl0ck_r3m3mb3rs_3very_s3c0nd}           (#21)
+  Severed Symmetry                     200    CSSCTF{P35T0_5CH3M3_4TT4CK2026}                    (#28)
+
+[ FORENSICS ]
+  Echoes of the Relay                   33    CSSCTF{d3l3t3d_d03snt_m34n_g0n3}                   (#1)
+  The False Timeline                    66    CSSCTF{kai_did_not_do_it}                          (#2)
+  Signal Fracture                      100    CSSCTF{fragment_t3ll_th3_st0ry}                    (#19)
+  Ghost Frequency                      115    CSSCTF{th3_gh0st_fr3qu3ncy_w4s_n3v3r_s1l3nt}       (#18)
+
+[ STEGANOGRAPHY ]
+  Colour Shift                          45    CSSCTF{SHINE_ON}                                   (#17)
+
+[ BLOCKCHAIN ]
+  Gateway                               50    CSSCTF{CSS{B451C_BL0CKCH41N_5K1LL5}}               (#52)
+  Lottery                              100    CSSCTF{CSS{U5E_4_R4ND0M_FUNCT10N}}                 (#53)
+
+[ REVERSE ENGINEERING ]
+  prince walk                           50    CSSCTF{P12INC3_0R_P1NC3?}                          (#46)
+  FLAPPY BOARD                          80    CSSCTF{birdddd}                                    (#27)
+
+================================================================
+ NOTA: Gateway/Lottery (Blockchain) — o servico (nc) devolve CSS{...};
+ o formato final de submissao e CSSCTF{CSS{...}}.
+================================================================
