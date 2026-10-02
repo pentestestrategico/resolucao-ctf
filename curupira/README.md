@@ -1,6 +1,7 @@
-# Curupira 3.0 - Militar — Writeups
+# Curupira 3.0 — Guardião Cibernético — Writeups
 
-Evento CTF GoHacking (Operação Relé). Cenário: comprometimento em cadeia de
+Evento CTF da [GoHacking Academy](https://academy.gohacking.com.br/) — **Curupira 3.0
+"Guardião Cibernético"**. Cenário: comprometimento em cadeia de
 **Transnorte (TN)**, **Litoral Telecom (LIT)** e **Câmara de Liquidação Mercantil (CLM)**
 pelo grupo **Obsidian**, via updates falsos da **IndusCom** (C2 `update.induscom-cdn.net` / `198.51.100.88`).
 
